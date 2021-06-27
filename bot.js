@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const client = new Discord.Client();
-const token = 'NzQxNzIwNjIyMDQ3OTUyOTk3.Xy7rKA.w215qzzG37yYuGaUgTXH2KWV_44';
+const token = '(no)';
 const PREFIX = '!';
  
   maker = require ("./Maker.js");
