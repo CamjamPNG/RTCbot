@@ -1,3 +1,3 @@
 # RTCbot
 
-8 the bot token doesnt work bwt so ye 
+the bot token doesnt work so ye 
